@@ -14,5 +14,5 @@ Developed using React, CSS (BEM).
 ![Screenshot 2](screenshots/features.png)
 *Screenshot 2: features*
 
-![Screenshot 3](screenshots/blog.png)
+![Screenshot 3](screenshots/blogging.png)
 *Screenshot 3: Blogging*
